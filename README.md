@@ -1,7 +1,7 @@
 # GOF-Design-Patterns
 
-Creational Patterns
+**Creational Patterns:**
 - Patterns related to creating objects.
 
-Structural Patterns
+**Structural Patterns:**
 - Patterns related to how objects are combined to form more complex structures.
