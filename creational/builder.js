@@ -44,6 +44,7 @@ const pizza = pizzaBuilder
     .addCrust("Thin")
     .addSauce("Garlic")
     .addTopping("Pepperoni")
+    .addTopping("Cheese")
     .build();
 
 pizza.order();
